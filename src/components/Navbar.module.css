@@ -1,8 +1,8 @@
 .nav {
   width: 23vw;
   margin: auto;
-  background-color:#FD9549;
-  box-shadow: 0 0 2px 3px #878787  ;
+  background-color: lightskyblue;
+  box-shadow: 0 0 2px 3px lightcyan  ;
 }
 .nav h1 {
   text-shadow: 2px 2px #DADADA ;

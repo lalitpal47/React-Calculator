@@ -11,7 +11,7 @@
   margin: 23px 15px;
 }
 .btn {
-  background:#B2BEB5;
+  background:rgb(208, 163, 163);
   color: black;
   padding: 5%;
   border: 0px;
@@ -37,7 +37,7 @@
 }
 
 .btn-0 {
-  background:#43AAC1;
+  background: #8a3030;;
   color:white;
   border: 0px;
   margin: 5px;
@@ -59,7 +59,7 @@
   height: 62px;
   margin-top: 30px;
   background:	#E5E4E2;
-  border-radius:10px;
+  border: radius 10px;
 }
 
 .result p {
